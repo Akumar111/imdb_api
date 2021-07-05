@@ -1,1 +1,1 @@
-node_modules
+OMDb API was used for this project
